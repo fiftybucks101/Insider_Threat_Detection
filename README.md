@@ -41,16 +41,15 @@ The notebook includes:
 
 **Visualization**
 
-![alt text](Images\image.png)
+![Insider_Threat_Detection/Images/image.png](Images/image.png)
 
-![alt text](Images\image-1.png)
+![Insider_Threat_Detection/Images/image-1.png](Images/image-1.png)
 
-![alt text](Images\image-2.png)
+![Insider_Threat_Detection/Images/image-2.png](Images/image-2.png)
 
-![alt text](Images\image-3.png)
+![Insider_Threat_Detection/Images/image-3.png](Images/image-3.png)
 
-![alt text](Images\image-4.png)
-
+![Insider_Threat_Detection/Images/image-4.png](Images/image-4.png)
 
 ## Conclusion
 After piecing together these clues, the evidence strongly suggests usr-zvn is an insider threat. The combination of excessive access, dual roles, and self-emailing paints a picture of deliberate misuse—confirmed through my analysis.
